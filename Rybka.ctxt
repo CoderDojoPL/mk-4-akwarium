@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\n\ Act\ -\ do\ whatever\ the\ Rybka\ wants\ to\ do.\ This\ method\ is\ called\ whenever\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\n
+comment1.params=
+comment1.target=int\ czyKoniecEkranu()
+comment1.text=\n\ Test\ if\ we\ are\ close\ to\ one\ of\ the\ edges\ of\ the\ world.\ Return\ true\ is\ we\ are.\n
+comment2.params=
+comment2.target=void\ ruchLewoPrawo()
+comment3.params=
+comment3.target=void\ zlapRybke()
+numComments=4
